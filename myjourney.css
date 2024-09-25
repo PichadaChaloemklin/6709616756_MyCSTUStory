@@ -64,7 +64,14 @@ nav {
     position: relative;
 }
 
-
+.forthyear-content {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    position: relative;
+}
 
 
 
