@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #B4CFEC;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 60px;
+}
+
+.nav-con a:hover {
+    background-color: gray;
+    color: black;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    background: grey;
+}
+
+
+
+
+
+
+span{
+    color: rgba(51, 89, 211, 0.747);
+}
+
+
+
