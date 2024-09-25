@@ -88,14 +88,14 @@ span{
     justify-content: space-evenly;
 }
 
-.about-content img {
-    margin-top: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
 .about-content video {
     margin-top: 1rem;
+}
+
+.about-content p {
+    text-align: center;
+    align-items: center;
+    font-size: 1.5rem;
 }
 
 .social-icon {
