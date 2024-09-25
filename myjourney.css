@@ -37,14 +37,21 @@ nav {
     background: grey;
 }
 
-
-
-
-
-
-span{
-    color: rgba(51, 89, 211, 0.747);
+.firstyear-content {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    position: relative;
 }
+
+
+
+
+
+
+
 
 
 
