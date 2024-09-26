@@ -36,3 +36,13 @@ a {
 nav {
     background: grey;
 }
+
+.myfuture-content p:hover {
+    background-color: #FF69B4;
+    color: white;
+}
+
+.myfuture-content p {
+    margin-top: 2rem;
+    text-align: center;
+}
